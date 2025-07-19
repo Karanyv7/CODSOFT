@@ -55,6 +55,4 @@ clone the github repo
 
 run the main_gui.py in your editor
 
-👨‍💻 Author
 
-Ojas Onkar Joshi
